@@ -4,7 +4,7 @@
 ### 0. After forking, cloning 
 ```$ cd Task-1 ```
 
-### 1. Upload your image in `img folder` and rename as `yourusename.img`
+### 1. Upload your image in `img folder` and rename as `yourusename.jpg`
 
 ### 2. Now, in index.html 
 
@@ -14,7 +14,7 @@
   
   
 <div class="col-md-2 col-sm-6 my-12 mx-auto p-relative bg-white shadow-1 blue-hover mycard mycard" style="width: 360px; overflow: hidden; border-radius: 1px;">
-                <img src="useusername.img" class="d-block w-full">
+                <img src="useusername.jpg" class="d-block w-full">
                     <div class="card-body">
                             <h5 class="card-title text-center">Enter Your Name</h5>
                             <div class="text-center">
