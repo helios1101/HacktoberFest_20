@@ -45,9 +45,9 @@ In contrast, look at [`index.html`](./index.html). That's how your write HTML - 
 ## Final but Important Steps
 
 1. In the repository there is a file `Contributors.md`.
-2. You need to simply add your `username` and your github page link adjacent to it and create a pull request.
+2. You need to simply add your `Name` and `your github page link` adjacent to it and create a pull request.
 (Make sure you're ading only two fields in the `contributors.md` file)
-3. We'll be accepting your pull request as soon as possible! 
+3. Send a PR with `Task-2-yourUserName` and wait for it to get merged. We'll be accepting your pull request as soon as possible!  
 
 ## Kudos!!
 You've successfully made a beautiful looking website for yourself and have learnt Git and GitHub upto a good level.
