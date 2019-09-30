@@ -1,6 +1,6 @@
 ![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
 
-[![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+[![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
@@ -18,19 +18,34 @@ A month-long celebration from October 1st - 31st presented by [Digital Ocean](ht
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
-Here are 3 quick and painless ways to contribute to this project:
-
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
-
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Rules
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who successfully complete the challenge will earn a T-shirt.
 
+
+
+## Choose from these tasks 
+
+Here are 3 quick and painless ways to contribute to this project:
+
+* [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
+Add your name to the website with description and make your way to Open Source.
+
+* [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
+Host your very own portfolio page in miniutes and share with us to get nearer to swags
+
+* [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
+Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
+
+Choose one or all 3, make a pull request for your work and wait for it to be merged!
+
+
 ## Steps to follow :scroll:
+
+### 0. Star The Repo :star2:
+
+Star the repo by pressing the topmost-right button to start your wonderful journey.
+
 
 ### 1. Fork it :fork_and_knife:
 
@@ -156,19 +171,6 @@ $ git push -u origin Folder_Name
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
-
-
-
-## Choose from these tasks 
-### 1. [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
-Add your name to the website with description and make your way to Open Source.
-
-
-### 2. [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
-Host your very own portfolio page in miniutes and share with us to get nearer to swags
-
-### 3. [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
-Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
 
 
 ## Help Contributing Guides :crown:
