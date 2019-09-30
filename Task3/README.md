@@ -2,7 +2,7 @@
 ## Steps to follow :scroll:
 
 ### 0. After forking, cloning 
-```$ cd Task-3 ```
+```$ cd Task3 ```
 
 ### 1. Choose your favourite language (if unavialble, make a new folder with that language ), then
 ```$ cd yourSelectedFolder ```
