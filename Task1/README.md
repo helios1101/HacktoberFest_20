@@ -30,3 +30,5 @@ Make sure to write Your Name, Github URL and Linkedin URL at space provided.
 
 
 ### 3. Send a PR with `Task-1-yourUserName` and wait for it to get merged. 
+
+View Your contribution at: https://helios1101.github.io/HacktoberFest_19/Task1/
