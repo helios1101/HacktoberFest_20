@@ -54,8 +54,8 @@ $ git clone https://github.com/Your_Username/HacktoberFest_19.git
 Once you have cloned the `HacktoberFest_19` repository in Github, move to that folder first using change directory command on Linux, Mac and Windows(powershell to be used).
 
 ```sh
-# This will change directory to a folder Algo_Ds_Notes
-$ cd Algo_Ds_Notes
+# This will change directory to a folder HacktoberFest_19
+$ cd Hacktoberfest_19
 ```
 
 Move to this folder for all other commands.
@@ -157,6 +157,20 @@ $ git push -u origin Folder_Name
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
+
+
+## Choose from these tasks 
+### 1. [Add your name and description](https://github.com/helios1101/HacktoberFest_19)
+Add your name to the website with description and make your way to Open Source.
+
+
+### 2. [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19) 
+Host your very own portfolio page in miniutes and share with us to get nearer to swags
+
+### 3. [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19)
+Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
+
+
 ## Help Contributing Guides :crown:
 
 We love to have `articles` and `codes` in different languages and `betterment` of existing ones.
@@ -165,6 +179,25 @@ Please discuss it with us first by creating new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
+## References :clipboard: :scroll:
+
+- Books :book: :books:
+    - Data Structures with C by Schaum Series
+    - Data Structures: A Pseudocode Approach with C by Richard F. Gilberg
+    - Fundamentals Of Data Structures in C by Horowitz
+    - Introduction To Algorithms By Thomas H. Cormen
+    - Java: The Complete Reference By Herbert Schildt
+    - Object Oriented Programming with C++ by E Balaguruswamy
+- Websites :computer:
+    - [GeeksforGeeks](http://www.geeksforgeeks.org)
+    - [hackerearth](https://www.hackerearth.com/notes)
+    - [topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials)
+    - [tutorialspoint](http://www.tutorialspoint.com)
+    - [Wikipedia](https://en.wikipedia.org)
 
 
+## Code Maintainers:
+The project is maintained by :
+ - [Harshit Singh](https://github.com/helios1101)
+ - [Vishal Gorai](https://github.com/grehatlinux)
 
