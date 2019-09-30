@@ -187,7 +187,6 @@ Please discuss it with us first by creating new issue.
     - Data Structures with C by Schaum Series
     - Data Structures: A Pseudocode Approach with C by Richard F. Gilberg
     - Fundamentals Of Data Structures in C by Horowitz
-    - Introduction To Algorithms By Thomas H. Cormen
     - Java: The Complete Reference By Herbert Schildt
     - Object Oriented Programming with C++ by E Balaguruswamy
     - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
