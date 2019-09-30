@@ -23,4 +23,4 @@ Sol. Write the program with proper solution and comments and variables
 ```
 
 
-### 3. Send a PR with `Task-3-yourUserName` and wait for it to get merged. 
+### 3. Send a PR with `Task-3-programName` and wait for it to get merged. 
