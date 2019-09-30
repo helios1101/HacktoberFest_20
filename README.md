@@ -82,8 +82,8 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/Algo_Ds_Notes.git (fetch)
-origin    https://github.com/Your_Username/Algo_Ds_Notes.git (push)
+origin    https://github.com/Your_Username/HacktoberFest_19.git (fetch)
+origin    https://github.com/Your_Username/HacktoberFest_19.git (push)
 ```
 `In your ase you will see`
 ```sh
@@ -160,14 +160,14 @@ Then add a title and description to your pull request that explains your preciou
 
 
 ## Choose from these tasks 
-### 1. [Add your name and description](https://github.com/helios1101/HacktoberFest_19)
+### 1. [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
 Add your name to the website with description and make your way to Open Source.
 
 
-### 2. [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19) 
+### 2. [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
 Host your very own portfolio page in miniutes and share with us to get nearer to swags
 
-### 3. [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19)
+### 3. [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
 Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
 
 
