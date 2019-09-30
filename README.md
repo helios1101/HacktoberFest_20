@@ -190,6 +190,7 @@ Please discuss it with us first by creating new issue.
     - Introduction To Algorithms By Thomas H. Cormen
     - Java: The Complete Reference By Herbert Schildt
     - Object Oriented Programming with C++ by E Balaguruswamy
+    - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
 - Websites :computer:
     - [GeeksforGeeks](http://www.geeksforgeeks.org)
     - [hackerearth](https://www.hackerearth.com/notes)
