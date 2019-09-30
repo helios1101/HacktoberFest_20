@@ -27,7 +27,7 @@
 
 ```
 Make sure to write Your Name, Github URL and Linkedin URL at space provided.
-(If you don't have your linked account, put a '#' instead)
+(If you don't have your LinkedIn account, put a '#' instead)
 
 
 ### 3. Send a PR with `Task1-yourUserName` and wait for it to get merged. 
