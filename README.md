@@ -1,5 +1,7 @@
 ![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
 
+[![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
 This repo aims to give to an introduction as how the Open Source world functions.
@@ -9,7 +11,7 @@ Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.d
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://helios1101.github.io/hacktoberfest/](https://helios1101.github.io/hacktoberfest/)
+[https://helios1101.github.io/hacktoberfest/](https://helios1101.github.io/hacktoberfest_19/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -25,111 +27,144 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+## Rules
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who successfully complete the challenge will earn a T-shirt.
 
-```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+## Steps to follow :scroll:
+
+### 1. Fork it :fork_and_knife:
+
+You can get your own fork/copy of [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19) by using the <a href="https://github.com/helios1101/HacktoberFest_19/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/helios1101/HacktoberFest_19/new/master?readme=1#fork-destination-box) at top-right of your screen.
+
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/helios1101/HacktoberFest_19/)
+
+
+### 2. Clone it :busts_in_silhouette:
+
+`NOTE: ommands are to be xeuted on LInux,Ma and Windows (using Powershell)`
+
+You need to clone (download) it to local machine using
+
+```sh
+$ git clone https://github.com/Your_Username/HacktoberFest_19.git
 ```
 
-* Create a branch
+> This makes a local copy of repository in your machine.
 
-```markdown
-git checkout -b branch-name
+Once you have cloned the `HacktoberFest_19` repository in Github, move to that folder first using change directory command on Linux, Mac and Windows(powershell to be used).
+
+```sh
+# This will change directory to a folder Algo_Ds_Notes
+$ cd Algo_Ds_Notes
 ```
 
-* Make your changes (choose from any task below)
-* Commit and push
+Move to this folder for all other commands.
 
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
+### 3. Set it up :arrow_up:
+
+Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
+
+```sh
+$ git remote -v
+origin  https://github.com/Your_Username/HacktoberFest_19.git (fetch)
+origin  https://github.com/Your_Username/HacktoberFest_19.git (push)
 ```
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
+Now, lets add a reference to the original [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19/) repository using
 
-## Choose from these tasks
-### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
-
-```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+```sh
+$ git remote add upstream https://github.com/helios1101/HacktoberFest_19.git
 ```
 
-### 2. Add a profile page
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+> This adds a new remote named ***upstream***.
 
-```markdown
-# Your Name
+See the changes using
 
-### Location
-
-Your City/Country
-
-### Academics
-
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[Your Name](GitHub Link)
+```sh
+$ git remote -v
+origin    https://github.com/Your_Username/Algo_Ds_Notes.git (fetch)
+origin    https://github.com/Your_Username/Algo_Ds_Notes.git (push)
+```
+`In your ase you will see`
+```sh
+$ git remote -V
+upstream  https://github.com/helios1101/HacktoberFest_19.git (fetch)
+upstream  https://github.com/helios1101/HacktoberFest_19.git (push)
 ```
 
-### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+### 4. Sync it :recycle:
 
-```Javascript
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+Always keep your local copy of repository updated with the original repository.
+Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
 
-console.log('Hello, World!');
+```sh
+# Fetch all remote repositories and delete any deleted remote branches
+$ git fetch --all --prune
+
+# Switch to `master` branch
+$ git checkout master
+
+# Reset local `master` branch to match `upstream` repository's `master` branch
+$ git reset --hard upstream/master
+
+# Push changes to your forked `HacktoberFest_19` repo
+$ git push origin master
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/helios1101/HacktoberFest_19/pulls).
 
-Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+### 6. Create a new branch :bangbang:
 
-## BONUS!
-* See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
-* Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
-* Check out some very creative ways to print out a "Hello, World!" string.
+Whenever you are going to make contribution. Please create seperate branch using command and keep your `master` branch clean (i.e. synced with remote branch).
 
-## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+```sh
+# It will create a new branch with name Branch_Name and switch to branch Folder_Name
+$ git checkout -b Folder_Name
+```
 
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+Create a seperate branch for contibution and try to use same name of branch as of folder.
 
-Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+To switch to desired branch
 
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+```sh
+# To switch from one folder to other
+$ git checkout Folder_Name
+```
 
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+To add the changes to the branch. Use
 
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+```sh
+# To add all files to branch Folder_Name
+$ git add .
+```
 
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+Type in a message relevant for the code reveiwer using
+
+```sh
+# This message get associated with all files you have changed
+$ git commit -m 'relevant message'
+```
+
+Now, Push your awesome work to your remote repository using
+
+```sh
+# To push your work to your remote repository
+$ git push -u origin Folder_Name
+```
+
+Finally, go to your repository in browser and click on `compare and pull requests`.
+Then add a title and description to your pull request that explains your precious effort.
+
+## Help Contributing Guides :crown:
+
+We love to have `articles` and `codes` in different languages and `betterment` of existing ones.
+
+Please discuss it with us first by creating new issue.
+
+:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
+
+
+
+
