@@ -63,25 +63,15 @@ body::after {
 }
 
 
-
-
-
-
-
-}
-
 /* card animations end */
-
-
-
 
 .footer{
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(133, 116, 116);
-  color: rgb(0, 0, 0);
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-align: center;
   height: 5rem;
 }
