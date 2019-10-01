@@ -4,7 +4,7 @@
 ### 0. After forking, cloning 
 ```$ cd Task1 ```
 
-### 1. Upload your image in `img folder` and rename as `yourusename.jpg`
+### 1. Upload your image in `img folder` and rename as `yourusername.jpg`
 
 ### 2. Now, in index.html 
 
