@@ -201,5 +201,5 @@ Please discuss it with us first by creating new issue.
 ## Code Maintainers:
 The project is maintained by :
  - [Harshit Singh](https://github.com/helios1101)
- - [Vishal Gorai](https://github.com/grehatlinux)
+ - [Vishal Gorai](https://github.com/greyhatlinux)
 
