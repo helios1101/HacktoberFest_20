@@ -48,6 +48,9 @@ body::after {
     margin: 2rem auto;
 }
 
+.avatar-img {
+  border-radius: 4px;
+}
 
 
 .shadow-1 {
@@ -73,7 +76,7 @@ body::after {
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   text-align: center;
-  height: 5rem;
+  height: 3.5rem;
 }
 .footer-block{
  text-align: center;
