@@ -5,3 +5,4 @@ Start adding Your Names with hosted portfolio.
 3. Aditya Raj Singh - adityarajsingh.github.io
 4. Muskan Gupta - guptam123.github.io
 5. Anchal Agarwal - anchal7299.github.io
+6. I Putu Jaya Adi Pranata - officialputuid.github.io
