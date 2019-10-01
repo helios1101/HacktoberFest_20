@@ -18,8 +18,8 @@
                     <div class="card-body">
                             <h5 class="card-title text-center">Enter Your Name</h5>
                             <div class="text-center">
-                                <a href="Your Github Home URL" class="btn btn-primary">Github</a>
-                                <a href="Your LinkedIn Profile URL" class="btn btn-primary">LinkedIn</a>
+                                <a href="Your Github Home URL"><i class="fa fa-github-square icon fa-3x"></i></a>
+                                <a href="Your LinkedIn Profile URL"><i class="fa fa-linkedin-square fa-3x"></i></a>
                             </div>
                     </div>
         </div>
