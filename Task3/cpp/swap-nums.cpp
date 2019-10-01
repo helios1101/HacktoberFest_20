@@ -69,7 +69,7 @@ int main(){
   //performing swap operation
   a=a+b;
   b=a-b;
-  a=a-b
+  a=a-b;
 
   //print the values of a and b after swapping
   cout<<"After swapping: ";
@@ -93,7 +93,7 @@ int main(){
 
   //performing swap operation
   a=a^b; // x now becomes 15 (1111)
-  b=a^b; // y becomes 10 (1010) 
+  b=a^b; // y becomes 10 (1010)
   a=a^b;
 
   //print the values of a and b after swapping
