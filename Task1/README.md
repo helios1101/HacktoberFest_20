@@ -1,7 +1,8 @@
 
 ## Steps to follow :scroll:
 
-### 0. After forking, cloning 
+### 0. (a) Fork the Repository to your GiitHub 
+### 0. (b) Clone the Repository into your machine
 ```$ cd Task1 ```
 
 ### 1. Upload your image in `img folder` and rename as `yourusername.jpg`
