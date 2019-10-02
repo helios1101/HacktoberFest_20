@@ -44,10 +44,12 @@ body::after {
 
 .w-full {
   width: 100%;
+  height: calc(100% - 50%);
 }
 
 .mycard{
     margin: 2rem auto;
+    padding: 15px;
 }
 
 
