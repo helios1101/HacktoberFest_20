@@ -29,7 +29,9 @@ body::after {
 }
 
 
-
+.icon{
+  color: black;
+}
 
 
 
@@ -46,10 +48,6 @@ body::after {
 
 .mycard{
     margin: 2rem auto;
-}
-
-.avatar-img {
-  border-radius: 4px;
 }
 
 

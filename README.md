@@ -32,7 +32,7 @@ Here are 3 quick and painless ways to contribute to this project:
 Add your name to the website with description and make your way to Open Source.
 
 * Task-2: [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
-Host your very own portfolio page in miniutes and share with us to get nearer to swags
+Host your very own portfolio page in minutes and share with us to get nearer to swags
 
 * Task-3: [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
 Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
@@ -201,5 +201,5 @@ Please discuss it with us first by creating new issue.
 ## Code Maintainers:
 The project is maintained by :
  - [Harshit Singh](https://github.com/helios1101)
- - [Vishal Gorai](https://github.com/grehatlinux)
+ - [Vishal Gorai](https://github.com/greyhatlinux)
 
