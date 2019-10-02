@@ -4,23 +4,23 @@
 
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
-This repo aims to give to an introduction as how the Open Source world functions.
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+This repo aims to give an introduction as to how the Open Source world functions.
+Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community and completing some simple tasks in this project.
+Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open-source community and completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
 Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_19/)
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
 ## Rules
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who successfully complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who complete the challenge will earn a T-shirt.
 
 
 
@@ -32,10 +32,10 @@ Here are 3 quick and painless ways to contribute to this project:
 Add your name to the website with description and make your way to Open Source.
 
 * Task-2: [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
-Host your very own portfolio page in miniutes and share with us to get nearer to swags
+Host your very own portfolio page in minutes and share with us to get nearer to swags
 
 * Task-3: [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
-Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
+Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
@@ -56,7 +56,7 @@ You can get your own fork/copy of [HacktoberFest_19](https://github.com/helios11
 
 ### 2. Clone it :busts_in_silhouette:
 
-`NOTE: commands are to be exceuted on Linux, Mac and Windows(using Powershell)`
+`NOTE: commands are to be executed on Linux, Mac, and Windows(using Powershell)`
 
 You need to clone (download) it to local machine using
 
@@ -64,9 +64,9 @@ You need to clone (download) it to local machine using
 $ git clone https://github.com/Your_Username/HacktoberFest_19.git
 ```
 
-> This makes a local copy of repository in your machine.
+> This makes a local copy of the repository in your machine.
 
-Once you have cloned the `HacktoberFest_19` repository in Github, move to that folder first using change directory command on Linux, Mac and Windows(powershell to be used).
+Once you have cloned the `HacktoberFest_19` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
 # This will change directory to a folder HacktoberFest_19
@@ -85,7 +85,7 @@ origin  https://github.com/Your_Username/HacktoberFest_19.git (fetch)
 origin  https://github.com/Your_Username/HacktoberFest_19.git (push)
 ```
 
-Now, lets add a reference to the original [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19/) repository using
+Now, let's add a reference to the original [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19/) repository using
 
 ```sh
 $ git remote add upstream https://github.com/helios1101/HacktoberFest_19.git
@@ -100,7 +100,7 @@ $ git remote -v
 origin    https://github.com/Your_Username/HacktoberFest_19.git (fetch)
 origin    https://github.com/Your_Username/HacktoberFest_19.git (push)
 ```
-`In your ase you will see`
+`In your case, you will see`
 ```sh
 $ git remote -V
 upstream  https://github.com/helios1101/HacktoberFest_19.git (fetch)
@@ -109,7 +109,7 @@ upstream  https://github.com/helios1101/HacktoberFest_19.git (push)
 
 ### 4. Sync it :recycle:
 
-Always keep your local copy of repository updated with the original repository.
+Always keep your local copy of the repository updated with the original repository.
 Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
 
 ```sh
@@ -119,7 +119,7 @@ $ git fetch --all --prune
 # Switch to `master` branch
 $ git checkout master
 
-# Reset local `master` branch to match `upstream` repository's `master` branch
+# Reset local `master` branch to match the `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
 # Push changes to your forked `HacktoberFest_19` repo
@@ -132,16 +132,16 @@ Once you have completed these steps, you are ready to start contributing by chec
 
 ### 6. Create a new branch :bangbang:
 
-Whenever you are going to make contribution. Please create seperate branch using command and keep your `master` branch clean (i.e. synced with remote branch).
+Whenever you are going to contribute. Please create a separate branch using command and keep your `master` branch clean (i.e. synced with remote branch).
 
 ```sh
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
 $ git checkout -b Folder_Name
 ```
 
-Create a seperate branch for contibution and try to use same name of branch as of folder.
+Create a separate branch for contribution and try to use the same name of the branch as of folder.
 
-To switch to desired branch
+To switch to the desired branch
 
 ```sh
 # To switch from one folder to other
@@ -152,10 +152,10 @@ To add the changes to the branch. Use
 
 ```sh
 # To add all files to branch Folder_Name
-$ git add .
+$ git add.
 ```
 
-Type in a message relevant for the code reveiwer using
+Type in a message relevant for the code reviewer using
 
 ```sh
 # This message get associated with all files you have changed
@@ -169,15 +169,15 @@ Now, Push your awesome work to your remote repository using
 $ git push -u origin Folder_Name
 ```
 
-Finally, go to your repository in browser and click on `compare and pull requests`.
+Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
 
 ## Help Contributing Guides :crown:
 
-We love to have `articles` and `codes` in different languages and `betterment` of existing ones.
+We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
 
-Please discuss it with us first by creating new issue.
+Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
@@ -196,7 +196,7 @@ Please discuss it with us first by creating new issue.
     - [topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials)
     - [tutorialspoint](http://www.tutorialspoint.com)
     - [Wikipedia](https://en.wikipedia.org)
-    - [Progate](https://http://progate.com)
+    - [Progate](https://progate.com)
 
 ## Code Maintainers:
 The project is maintained by :
