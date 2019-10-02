@@ -50,10 +50,6 @@ body::after {
     margin: 2rem auto;
 }
 
-.avatar-img {
-  border-radius: 4px;
-}
-
 
 .shadow-1 {
   box-shadow: 0 4px 5px 0 rgba(15, 4, 4, 0.45);

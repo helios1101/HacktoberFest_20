@@ -4,7 +4,7 @@
 ### 0. After forking, cloning 
 ```$ cd Task3 ```
 
-### 1. Choose your favourite language (if unavialble, make a new folder with that language ), then
+### 1. Choose your favourite language (if unavailable, make a new folder with that language ), then
 ```$ cd yourSelectedFolder ```
 
 ### 2. Now, [for cpp file]
