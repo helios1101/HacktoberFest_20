@@ -8,3 +8,5 @@ Start adding Your Names with hosted portfolio.
 6. Anchal Agarwal - anchal7299.github.io
 7. I Putu Jaya Adi Pranata - officialputuid.github.io
 8. Dureksha Wasala - dcjc29.github.io
+9. Vaibhav Vijay - [vaibhavvijay.me](https://vaibhavvijay.me)
+4. Baecon - baecon.github.io
