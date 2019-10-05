@@ -53,6 +53,43 @@ body::after {
     margin: 2rem auto;
 }
 
+/* adding mobile screen compatibility */
+
+/* --------------------------------------------------------------- */
+/* for mobile screen */
+@media only screen and (min-width: 425px) {
+
+  body{
+    overflow-x: hidden;
+  }
+
+  .pic{
+    margin: 0 auto;
+    height: 18rem;
+    width: 22rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }  
+
+  .mycard{
+    padding: 0rem;
+
+  }
+
+}
+
+/* for large screens */
+.pic{
+  height: 18rem;
+  width: 20rem;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/* -------------------------------------------------------- */
+
+
+
 
 .shadow-1 {
   box-shadow: 0 4px 5px 0 rgba(15, 4, 4, 0.45);
