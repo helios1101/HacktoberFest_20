@@ -13,6 +13,9 @@
    box-sizing: border-box;
    font-family: 'Roboto', sans-serif;
    background-color: #fafafa;
+  
+/*   fixing horizontal scrolling */
+   overflow-x: hidden;
 }
 
 .head-section{
