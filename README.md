@@ -99,10 +99,14 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/HacktoberFest_19.git (fetch)
 origin    https://github.com/Your_Username/HacktoberFest_19.git (push)
+upstream  https://github.com/Remote_Username/HacktoberFest_19.git (fetch)
+upstream  https://github.com/Remote_Username/HacktoberFest_19.git (push)
 ```
 `In your case, you will see`
 ```sh
 $ git remote -V
+origin    https://github.com/Your_Username/HacktoberFest_19.git (fetch)
+origin    https://github.com/Your_Username/HacktoberFest_19.git (push)
 upstream  https://github.com/helios1101/HacktoberFest_19.git (fetch)
 upstream  https://github.com/helios1101/HacktoberFest_19.git (push)
 ```
