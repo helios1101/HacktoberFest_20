@@ -156,7 +156,7 @@ To add the changes to the branch. Use
 
 ```sh
 # To add all files to branch Folder_Name
-$ git add.
+$ git add .
 ```
 
 Type in a message relevant for the code reviewer using
