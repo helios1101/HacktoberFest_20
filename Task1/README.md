@@ -1,7 +1,7 @@
 
 ## Steps to follow :scroll:
 
-### 0. (a) Fork the Repository to your GiitHub 
+### 0. (a) Fork the Repository to your GitHub 
 ###    (b) Clone the Repository into your machine
 ```$ cd Task1 ```
 
