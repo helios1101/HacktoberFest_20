@@ -1,0 +1,19 @@
+#theform {
+	display:table;
+	padding:10px;
+	color:black;
+	background-color:#878787;
+	border:solid 2px #000000;
+	font-family: 'Coiny', cursive;
+}
+.row{
+	display:table-row;
+}
+.row label{
+	display:table-cell;
+	padding:5px;
+}
+.row input{
+	display:table-cell;
+	padding:3px;
+}
