@@ -15,7 +15,7 @@
   
   
 <div class="col-md-2 col-sm-6 my-12 mx-auto p-relative bg-white shadow-1 blue-hover mycard mycard" style="width: 360px; overflow: hidden; border-radius: 1px;">
-                <img src="./img/useusername.jpg" class="d-block w-full">
+                <img src="./img/useusername.jpg" class="pic w-full">
                     <div class="card-body">
                             <h5 class="card-title text-center">Enter Your Name</h5>
                             <div class="text-center">
