@@ -1,28 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Lora|Roboto:400,500);
 
-/* card aninamtions */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: none;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  background-color: #fafafa;
 
-
- body {
-   margin: 0;
-   padding: 0;
-   font-size: 16px;
-   line-height: 1.5;
-   text-rendering: optimizeLegibility;
-   font-variant-ligatures: none;
-   box-sizing: border-box;
-   font-family: 'Roboto', sans-serif;
-   background-color: #fafafa;
-  
-/*   fixing horizontal scrolling */
-   overflow-x: hidden;
-}
-
-.head-section{
-    box-shadow: 0 8px 6px -6px black;
-    background-image: url("hack.png");
-    color: #fafafa;
-
+  /* fixing horizontal scrolling */
+  overflow-x: hidden;
 }
 body::before,
 body::after {
@@ -31,68 +21,35 @@ body::after {
   clear: both;
 }
 
-
-.icon{
-  color: black;
+.head-section {
+  box-shadow: 0 8px 6px -6px black;
+  background-image: url("hack.png");
+  color: #fafafa;
 }
 
-
-
- .lts-1px {
-   letter-spacing: 1px;
+.icon {
+  color: black;
+}
+.lts-1px {
+  letter-spacing: 1px;
 }
 .lts-2px {
   letter-spacing: 2px;
 }
 
-.w-full {
+img.w-full {
   width: 100%;
-  height: calc(100% - 50%);
 }
 
-.mycard{
-    margin: 2rem auto;
-    padding: 15px;
+.row {
+  margin: 0 auto;
+}
+.mycard {
+  margin: 2rem auto;
+  padding: 15px;
 }
 
-/* adding mobile screen compatibility */
-
-/* --------------------------------------------------------------- */
-/* for mobile screen */
-@media only screen and (min-width: 450px) {
-
-  body{
-    overflow-x: hidden;
-  }
-
-  .pic{
-    margin: 0 auto;
-    height: 18rem;
-    width: 22rem;
-    overflow-x: hidden;
-    overflow-y: hidden;
-  }  
-
-  .mycard{
-    padding: 0rem;
-
-  }
-
-}
-
-/* for large screens */
-.pic{
-  height: 18rem;
-  width: 20rem;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
-
-/* -------------------------------------------------------- */
-
-
-
-
+/* card animations */
 .shadow-1 {
   box-shadow: 0 4px 5px 0 rgba(15, 4, 4, 0.45);
 }
@@ -101,14 +58,11 @@ body::after {
   border-bottom: 5px solid transparent;
 }
 .blue-hover:hover {
-  transform: translateY(-5px);
-  /* border-bottom: 5px solid #020303; */
+  transform: translateY(-10px);
 }
-
-
 /* card animations end */
 
-.footer{
+.footer {
   position: fixed;
   left: 0;
   bottom: 0;
@@ -118,15 +72,11 @@ body::after {
   text-align: center;
   height: 3.5rem;
 }
-.footer-block{
- text-align: center;
- margin-top: 1rem;
- margin: 1rem auto;
-}
 
-.row {
-  margin-left: 0px;
-  margin-right: 0px;
+.footer-block {
+  text-align: center;
+  margin-top: 1rem;
+  margin: 1rem auto;
 }
 
 /* ****************** Responsive Styles ********************** */
@@ -138,7 +88,7 @@ body::after {
     padding: 0.8rem;
   }
   .card-title {
-    font-size: 1.0rem;
+    font-size: 1rem;
   }
   h6 {
     font-size: 0.8rem;
@@ -164,5 +114,15 @@ body::after {
 @media (max-width: 425px) {
   .card-title {
     font-size: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 450px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .mycard {
+    padding: 0rem;
   }
 }
