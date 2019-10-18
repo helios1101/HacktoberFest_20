@@ -19,4 +19,3 @@ Start adding Your Names with hosted portfolio.
 17. Aayush Garg - aayushgarg-03.github.io
 18. Shubhayan Saha - https://shubhayans.github.io/
 19. Yael Steinberger - https://yaelsteinberger.github.io/
-20. Sarah Abraham - [sarahab23.github.io](https://sarahab23.github.io/)
