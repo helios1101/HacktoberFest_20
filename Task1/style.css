@@ -47,10 +47,12 @@ body::after {
 
 .w-full {
   width: 100%;
+  height: calc(100% - 50%);
 }
 
 .mycard{
     margin: 2rem auto;
+    padding: 15px;
 }
 
 /* adding mobile screen compatibility */
@@ -122,3 +124,45 @@ body::after {
  margin: 1rem auto;
 }
 
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* ****************** Responsive Styles ********************** */
+@media (max-width: 1200px) {
+  .fa-3x {
+    font-size: 1.5em;
+  }
+  .card-body {
+    padding: 0.8rem;
+  }
+  .card-title {
+    font-size: 1.0rem;
+  }
+  h6 {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .row {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer-block {
+    margin: 0.5rem auto;
+  }
+  .w-full {
+    height: auto;
+  }
+}
+
+@media (max-width: 425px) {
+  .card-title {
+    font-size: 1.5rem;
+  }
+}

@@ -4,12 +4,12 @@
 
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
-This repo aims to give an introduction as to how the Open Source world functions.
+This repository aims to give an introduction as to how the Open Source world functions.
 Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open-source community and completing some simple tasks in this project.
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+This repository is open to all  members of the GitHub community. Any member can contribute to this project without being a collaborator.
 
 Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_19/)
 
@@ -26,7 +26,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 ## Choose from these tasks 
 
-Here are 3 quick and painless ways to contribute to this project:
+Here are 3 quick and easy ways to contribute to this project:
 
 * Task-1: [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
 Add your name to the website with description and make your way to Open Source.
@@ -140,7 +140,7 @@ Whenever you are going to contribute. Please create a separate branch using comm
 
 ```sh
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
-$ git checkout -b Folder_Name
+$ git checkout -b BranchName
 ```
 
 Create a separate branch for contribution and try to use the same name of the branch as of folder.
@@ -149,7 +149,7 @@ To switch to the desired branch
 
 ```sh
 # To switch from one folder to other
-$ git checkout Folder_Name
+$ git checkout BranchName
 ```
 
 To add the changes to the branch. Use
@@ -170,7 +170,7 @@ Now, Push your awesome work to your remote repository using
 
 ```sh
 # To push your work to your remote repository
-$ git push -u origin Folder_Name
+$ git push -u origin BranchName
 ```
 
 Finally, go to your repository in the browser and click on `compare and pull requests`.
