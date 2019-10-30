@@ -4,7 +4,6 @@ Start adding Your Names with hosted portfolio.
 2. Vishal Gorai - greyhatlinux.github.io
 3. Aditya Raj Singh - adityarajsingh.github.io
 4. Muskan Gupta - guptam123.github.io
-11. Tanmay Kumar Bisoi - pseudonerd.github.io
 5. Anchal Agarwal - anchal7299.github.io
 6. I Putu Jaya Adi Pranata - officialputuid.github.io
 5. I Putu Jaya Adi Pranata - officialputuid.github.io
@@ -22,3 +21,4 @@ Start adding Your Names with hosted portfolio.
 17. Yael Steinberger - https://yaelsteinberger.github.io/
 18. Jeffrey Ukutegbe - http://github.com/JeffCorp
 19. Kunal Bhat - https://panzerox123.github.io/
+20. Tanmay Kumar Bisoi - pseudonerd.github.io
