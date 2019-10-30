@@ -1,0 +1,8 @@
+DECLARE str1 CHAR;
+DECLARE str2 CHAR;
+DECLARE printStr CHAR;
+
+SET str1 = 'Whats';
+SET str2 = 'up!';
+
+SET printStr = str1 || ' ' || str2;
