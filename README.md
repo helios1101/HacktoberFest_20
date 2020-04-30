@@ -4,7 +4,7 @@
 
 # 🎃 HacktoberFest'19 Icebreaker Project 🎃
 
-This repository aims to give an introduction as to how the Open Source world functions.
+This repository aims to give an introduction as to how the Open Source World functions.
 Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open-source community and completing some simple tasks in this project.
@@ -14,7 +14,7 @@ This repository is open to all  members of the GitHub community. Any member can 
 Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_19/)
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
+A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
