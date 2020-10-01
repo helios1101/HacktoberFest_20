@@ -1,30 +1,23 @@
-''' Similar to fractional KnapSack except 
-you cannot break an item, 
-either pick the complete item, 
-or don’t pick it (0-1 property).'''
+def knapsackBF(weights, values, maxWeight):
+    n=len(values)
+    dp=[[0 for j in range(maxWeight+1)]for i in range(n+1)]
+    for i in range(1,n+1):
+        for j in range(1,maxWeight+1):
+            if j<weights[i-1]:
+                ans=dp[i-1][j]
+            else:
+                ans1=values[i-1]+dp[i-1][j-weights[i-1]]
+                ans2=dp[i-1][j]
+                ans=max(ans1,ans2)
+            dp[i][j]=ans
+    return dp[n][maxWeight]
+    
+    
 
-def maxKnapSack(W , wt , profit , n): 
-
-    if n == 0 or W == 0 : 
-        return 0
-
-    # If weight of item is more than capacity W
-    # then this item cannot be included in the optimal solution 
-
-    if (wt[n-1] > W): 
-        return maxKnapSack(W , wt , profit , n-1) 
-
-    # return the maximum of two cases: 
-    # (a) item included 
-    # (b) not included 
-    else: 
-        return max(profit[n-1] + maxKnapSack(W-wt[n-1] , wt , profit , n-1), 
-                   maxKnapSack(W , wt , profit , n-1)) 
-
-# Driver Program
-if __name__ == '__main__':
-    profit = [60, 100, 120] 
-    wt = [10, 20, 30] 
-    W = 50
-    n = len(profit) 
-    print(maxKnapSack(W , wt , profit , n)) 
+from sys import setrecursionlimit
+setrecursionlimit(11000)
+n=int(input())
+weights=list(int(i) for i in input().strip().split(' '))
+values=list(int(i) for i in input().strip().split(' '))
+maxWeight=int(input())
+print(knapsackBF(weights, values, maxWeight))
