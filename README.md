@@ -11,7 +11,7 @@ Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.d
 
 This repository is open to all  members of the GitHub community. Any member can contribute to this project without being a collaborator.
 
-Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_19/)
+Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_20/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
@@ -28,10 +28,10 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 Here are 3 quick and easy ways to contribute to this project:
 
-* Task-1: [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
+* Task-1: [Add your name and description](https://github.com/helios1101/HacktoberFest_20/tree/master/Task1)
 Add your name to the website with description and make your way to Open Source.
 
-* Task-2: [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
+* Task-2: [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_20/tree/master/Task2) 
 Host your very own portfolio page in minutes and share with us to get nearer to swags
 
 * Task-3: [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
