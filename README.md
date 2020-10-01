@@ -1,8 +1,8 @@
-![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
+![Hacktoberfest](https://github.com/helios1101/HacktoberFest_20/blob/master/Task1/img/hacktoberfest-logo.png "Hacktoberfest")
 
 [![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# 🎃 HacktoberFest'19 Icebreaker Project 🎃
+# 🎃 HacktoberFest'20 Icebreaker Project 🎃
 
 This repository aims to give an introduction as to how the Open Source World functions.
 Use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
