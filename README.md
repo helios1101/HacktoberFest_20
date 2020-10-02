@@ -11,7 +11,7 @@ Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.d
 
 This repository is open to all  members of the GitHub community. Any member can contribute to this project without being a collaborator.
 
-Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_20/)
+Repo Link : [helios1101.github.io/hacktoberfest_20/](https://helios1101.github.io/HacktoberFest_20/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
@@ -20,7 +20,7 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 
 
 ## Rules
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 
 
 
