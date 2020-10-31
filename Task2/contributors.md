@@ -23,3 +23,4 @@ Start adding Your Names with hosted portfolio.
 21. Kunal Bhat - https://panzerox123.github.io/
 22. Tanmay Kumar Bisoi - pseudonerd.github.io
 23. Ifan Zalukhu - https://ifanzalukhu97.github.io/
+24. Arslan Siddique - https://arslan.github.io/
