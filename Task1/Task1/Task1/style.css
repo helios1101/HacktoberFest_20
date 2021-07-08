@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Roboto:400,500);
+
+/* card aninamtions */
+
+
+ body {
+   margin: 0;
+   padding: 0;
+   font-size: 16px;
+   line-height: 1.5;
+   text-rendering: optimizeLegibility;
+   font-variant-ligatures: none;
+   box-sizing: border-box;
+   font-family: 'Roboto', sans-serif;
+   background-color: #fafafa;
+  
+/*   fixing horizontal scrolling */
+   overflow-x: hidden;
+}
+
+.head-section{
+    box-shadow: 0 8px 6px -6px black;
+    background-image: url("hack.png");
+    color: #fafafa;
+
+}
+body::before,
+body::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.icon{
+  color: black;
+}
+
+
+
+ .lts-1px {
+   letter-spacing: 1px;
+}
+.lts-2px {
+  letter-spacing: 2px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.mycard{
+    margin: 2rem auto;
+}
+
+/* adding mobile screen compatibility */
+
+/* --------------------------------------------------------------- */
+/* for mobile screen */
+@media only screen and (min-width: 450px) {
+
+  body{
+    overflow-x: hidden;
+  }
+
+  .pic{
+    margin: 0 auto;
+    height: 18rem;
+    width: 22rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }  
+
+  .mycard{
+    padding: 0rem;
+
+  }
+
+}
+
+/* for large screens */
+.pic{
+  height: 18rem;
+  width: 20rem;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/* -------------------------------------------------------- */
+
+
+
+
+.shadow-1 {
+  box-shadow: 0 4px 5px 0 rgba(15, 4, 4, 0.45);
+}
+.blue-hover {
+  transition: all 0.25s ease-in;
+  border-bottom: 5px solid transparent;
+}
+.blue-hover:hover {
+  transform: translateY(-5px);
+  /* border-bottom: 5px solid #020303; */
+}
+
+
+/* card animations end */
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  height: 3.5rem;
+}
+.footer-block{
+ text-align: center;
+ margin-top: 1rem;
+ margin: 1rem auto;
+}
+
