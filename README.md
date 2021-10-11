@@ -194,6 +194,7 @@ Please discuss it with us first by creating a new issue.
     - Java: The Complete Reference By Herbert Schildt
     - Object Oriented Programming with C++ by E Balaguruswamy
     - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
+    - You Don't Know JS Yet - Kyle Simpson
 - Websites :computer:
     - [GeeksforGeeks](http://www.geeksforgeeks.org)
     - [hackerearth](https://www.hackerearth.com/notes)
