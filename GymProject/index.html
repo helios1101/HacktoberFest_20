@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GYM
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@600&family=Baloo+Tamma+2:wght@500&family=Mochiy+Pop+P+One&display=swap"
+        rel="stylesheet">
+</head>
+<style>
+    /*CSS Reset*/
+    body {
+        margin: 0px;
+        padding: 0px;
+        background: url('Img/123.jpg');
+        background-repeat: no-repeat;
+        height: 100%;
+        background-size: cover;
+        font-family: 'Baloo Bhaijaan 2', cursive;
+
+    }
+
+    .left {
+        display: inline-block;
+        
+        position: absolute;
+        left: 40px;
+        top: 20px;
+
+    }
+
+    .mid {
+        display: block;
+        width: 54%;
+        margin: 20px auto;
+        
+
+    }
+
+    .right {
+        position: absolute;
+        right: 25px;
+        top: 15px;
+        display: inline-block;
+        
+
+    }
+
+    .navbar {
+        display: inline-block
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 25px;
+    }
+
+    .navbar li a {
+        color: whitesmoke;
+        text-decoration: none;
+        padding: 34px 23px;
+    }
+
+    .navbar li a:hover,
+    .navbar li a.active {
+        text-decoration: underline;
+        color: grey;
+    }
+
+    .left img {
+        width: 50px;
+        filter: invert(100%);
+
+    }
+
+    .left div {
+        line-height: 15px;
+        font-size: 20px;
+        text-align: center;
+        color: whitesmoke;
+
+    }
+
+    .btn {
+        margin: 0px 9px;
+        color: aliceblue;
+        background-color: rgba(0, 0, 0, 0.747);
+        padding: 4px 10px;
+        border: 2px solid gray;
+        border-radius: 10px;
+        font-size: 15px;
+        cursor: pointer;
+        font-family: 'Baloo Bhaijaan 2', cursive;
+    }
+
+    .btn:hover {
+        background-color: rgba(247, 55, 41, 0.877);
+    }
+
+    .container {
+        color: rgb(19, 1, 1);
+        border: 2px solid rgb(241, 241, 241);
+        margin: 100px 60px;
+        padding: 55px;
+        width: 33%;
+        border-radius: 2px;
+        background-color: rgba(204, 194, 194, 0.384);
+
+    }
+    .form-grp input{
+        text-align: center;
+        display: block;
+        width: 450px;
+        padding: 1px;
+        border: 2px solid black;
+        margin: 11px auto;
+        font-size: 15px;
+        border-radius: 8px;
+        font-family: 'Baloo Bhaijaan 2', cursive;
+        
+
+
+    }
+    .container h1{
+        text-align: center;
+    }
+    .container button{
+        display: block;
+        margin: auto;
+    }
+    
+</style>
+
+<body>
+    <header class="header">
+
+        <div class="left">
+            <img src="img/logo.png">
+            <div>Tom Fitness </div>
+        </div>
+
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Fitness Calculator</a></li>
+                <li><a href="#">Contact Us</a></li>
+
+            </ul>
+        </div>
+        <div class="right">
+            <button class="btn">Call Us</button><button class="btn">Email Us</button>
+        </div>
+    </header>
+    <div class="container">
+        <h1>Join the best gym of Delhi now!! </h1>
+        <form action="noaction.php">
+            <div class="form-grp">
+                <input type="text" name="" placeholder="Enter your Name">
+            </div>
+            <div class="form-grp">
+                <input type="text" name="" placeholder="Enter your Age">
+            </div>
+            <div class="form-grp">
+                <input type="text" name="" placeholder="Enter your Gender">
+            </div>
+            <div class="form-grp">
+                <input type="text" name="" placeholder="Locality">
+            </div>
+            <button class="btn">Submit</button>
+        </form>
+    </div>
+
+</body>
+
+</html>
