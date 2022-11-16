@@ -201,6 +201,7 @@ Please discuss it with us first by creating a new issue.
     - [tutorialspoint](http://www.tutorialspoint.com)
     - [Wikipedia](https://en.wikipedia.org)
     - [Progate](https://progate.com)
+    - [Scaler Topic](https://www.scaler.com/topics/)
 
 ## Code Maintainers:
 The project is maintained by :
